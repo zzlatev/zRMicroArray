@@ -10,7 +10,7 @@ comparative evaluation of zRMicroArray vs GeneSifter and GeneSpring,
 performed by the staff at the Genomics and Bioinformatics Facility Core, 
 Center for Environmental and Rural Health (CERH), Texas A&M University.
 
-Install notes: - Please see the ReadMe.txt file in the archive
+Install notes: - Please see the ReadMe.txt file in the archive.
 Users Guide - video, audio, subtitles: Search YouTube, I'll add it to figshare soon.
 Web page: http://ChangeTheWorldWork.com/zRMicroArray/
 Developed by: Zlatomir Zlatev
